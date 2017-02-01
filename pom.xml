@@ -39,7 +39,7 @@
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>${mule.version}</muleVersion>
 					<username>GPWhittle</username>
-					<password>password123</password>
+					<password>jov3iaL!</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Production</environment>
